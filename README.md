@@ -78,6 +78,8 @@ This will upgrade the `DataLiquidityPool` contract to the latest version while p
 
 By following these steps, you can deploy the complete set of smart contracts (`DataLiquidityPoolsRoot`, `DataLiquidityPool`, and `DataLiquidityPoolToken`) to the Satori network and verify them on the block explorer. The `DataLiquidityPoolsRoot` contract manages the creation and reward distribution for multiple DLPs, while each `DataLiquidityPool` contract handles validator registration, file uploads, and reward distribution within its specific pool.
 
+Credits to Joseph Tran
+
 
 Based on the provided Solidity contract, here is a README file in Markdown format for the `DLPT` contract:
 
